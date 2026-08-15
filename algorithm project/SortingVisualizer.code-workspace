@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "Sorting Visualizer (main.py here)"
+    }
+  ],
+  "settings": {
+    "python.analysis.extraPaths": ["${workspaceFolder}"]
+  }
+}
